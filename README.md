@@ -5,6 +5,9 @@
 - [Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
 - [Counting and Timing](http://code.flickr.net/2008/10/27/counting-timing/)
 - [Tracking Every Release](https://codeascraft.com/2010/12/08/track-every-release/)
+- [Let's talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging)
+- [Logging and Telemetry](https://peter.bourgon.org/go-in-production/)
+- [Logging vs instrumentation](http://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)
 
 **What**
 
