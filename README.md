@@ -16,6 +16,7 @@
 - [What is StatsD](https://www.datadoghq.com/blog/statsd/) - application metrics tool
 - [You will become an expert in open source eventually](https://influxdata.com/blog/do-you-want-to-be-an-open-source-developer/)
 - [OpenNTI Telemetry Collector](http://forums.juniper.net/t5/Analytics/Open-Source-Universal-Telemetry-Collector-for-Junos/ba-p/288677)
+- [Building StatHat with Go](https://blog.golang.org/building-stathat-with-go)
 
 
 **How To**
