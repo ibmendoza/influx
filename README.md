@@ -9,6 +9,7 @@
 **What**
 
 - [What is StatsD](https://www.datadoghq.com/blog/statsd/) - application metrics tool
+- [You will become an expert in open source eventually](https://influxdata.com/blog/do-you-want-to-be-an-open-source-developer/)
 
 **How To**
 
