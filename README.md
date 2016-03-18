@@ -17,6 +17,7 @@
 - [You will become an expert in open source eventually](https://influxdata.com/blog/do-you-want-to-be-an-open-source-developer/)
 - [OpenNTI Telemetry Collector](http://forums.juniper.net/t5/Analytics/Open-Source-Universal-Telemetry-Collector-for-Junos/ba-p/288677)
 - [Building StatHat with Go](https://blog.golang.org/building-stathat-with-go)
+- [Graphite/Whisper Migration Tool to InfluxDB](https://influxdata.com/blog/graphite-whisper-influxdb-migration-utility-beta/)
 
 
 **How To**
