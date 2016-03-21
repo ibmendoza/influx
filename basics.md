@@ -6,10 +6,13 @@ Source: InfluxData Documentation
 
 **Relational to Time Series Analogy**
 
-| Relational    | Time Series   | Notes  |
+| Relational    | Time Series   | Notes                |
 | ------------- |:-------------:| --------------------:|
-| table         | measurement   | census |
-| primary index | time          |   $12 |
-| column        | field         | not indexed   |
-| column        | tag           | indexed metadata |
+| table         | measurement   | census               |
+| primary index | time          | RFC3339 UTC          |
+| column        | field         | not indexed          |
+| column        | tag           | indexed metadata     |
+| NULL          | N/A             | null is not stored |
+| column name   | field/tag key   |    |
+| column value  | field/tag value |    |
 
