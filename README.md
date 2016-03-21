@@ -25,6 +25,7 @@
 
 **How To**
 
+- [Metrics Cocktail: StatsD, InfluxDB and Grafana](http://www.symantec.com/connect/blogs/metrics-cocktail-statsdinfluxdbgrafana)
 - [Visualizing Network Stats using InfluxDB, Grafana & influxsnmp](http://lkhill.com/using-influxdb-grafana-to-display-network-statistics/)
 - [Intro to Tracking with Graphite, statsd and collectd](https://www.digitalocean.com/community/tutorials/an-introduction-to-tracking-statistics-with-graphite-statsd-and-collectd)
 - [Send statsd metrics to Telegraf and InfluxDB](https://influxdata.com/blog/getting-started-with-sending-statsd-metrics-to-telegraf-influxdb/)
