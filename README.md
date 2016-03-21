@@ -12,6 +12,7 @@
 **What**
 
 - https://influxdb.com/index.xml (RSS feed)
+- [Time Series Databases and InfluxDB](http://www.xaprb.com/blog/2014/03/02/time-series-databases-influxdb/)
 - [Difference between InfluxDB and Prometheus](http://stackoverflow.com/questions/33350314/usecases-influxdb-vs-prometheus)
 - [What is StatsD](https://www.datadoghq.com/blog/statsd/) - application metrics tool
 - [You will become an expert in open source eventually](https://influxdata.com/blog/do-you-want-to-be-an-open-source-developer/)
