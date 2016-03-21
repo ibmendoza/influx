@@ -8,6 +8,8 @@
 - [Let's talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging)
 - [Logging and Telemetry](https://peter.bourgon.org/go-in-production/)
 - [Logging vs instrumentation](http://peter.bourgon.org/blog/2016/02/07/logging-v-instrumentation.html)
+- [Monitoring is Dead, Long Live Performance Management](https://www.vividcortex.com/blog/2014/04/21/monitoring-is-dead-long-live-performance-management/)
+- [Time Series Charts Considered Meaningless](https://www.vividcortex.com/blog/2013/07/10/time-series-charts-considered-meaningless/)
 
 **What**
 
