@@ -1,5 +1,7 @@
 # The Influx Query Language Specification
 
+Latest version is at https://github.com/influxdata/influxdb/blob/master/influxql/README.md
+
 ## Introduction
 
 This is a reference for the Influx Query Language ("InfluxQL").
